@@ -5,24 +5,56 @@ Bộ phận: Lập trình game
 Vị trí: Unity Developer Intern
 Nội dung: Phát triển lên di dộng một game 2D lấy ý tưởng từ Deadcell.
 ----
-Content:
+CONTENT:
+######
+A - Giới thiệu:
+	- Công ty GGO.
+	- Project-D.
+---------------------------------------
+-> Nhiệm vụ chính trong chương này là đưa ra những thông tin cơ bản về bối cảnh của báo cáo. Giới thiệu về công ty đang tham gia thực tập, dự án được tham gia tại doanh nghiệp.
+#REF:
+https://vtv.vn/cong-nghe/nha-tho-duc-ba-co-the-duoc-phuc-dung-lai-nho-cong-nghe-nhu-the-nao-20190417194247376.htm
+https://vneconomy.vn/khai-pha-tiem-nang-nganh-cong-nghiep-game-viet.htm
+https://spiderum.com/bai-dang/Lieu-Video-game-co-phai-la-mon-nghe-thuat-thu-8-a9FVTjzkyLSX
 
-- thuật ngữ / chữ viết tắt.
-Chương 1: Giới thiệu game Deadcell.
-	- Giới thiệu cơ bản về Game và nhà phát triển.
-	- Xác định thể loại game.
-	- Các đặc trưng của dòng game này.
+######
+B - Những khái niệm ban đầu:
+Chương 1: Khi trò chơi không còn là công cụ để giải trí.
+	- Game là gì?
+	- Các vị trí trong ngành công nghiệp game.
+		- Design department
+		- Programming department.
+		- Quality assurance department.
+	- Quy trình phát triển game tổng quát.
+		- Pre-production.
+		- Production.
+		- Post-Production fix & polish.
 
-Chương 2: Phân tích thiết kế game.
-	- Game design.
-	- Chi tiết từng cơ chế của game.
-	- Cơ chế phần thưởng.
-	- Cơ chế hình phạt.
-	- Hệ thống vật phẩm.
-Chương 3: Mô hình hệ thống thế giới bất định:
-	- Cơ chế random generator map cho mỗi lần run.
-	- Hệ thống tăng tiến trong thiết kế level.
-	- Compare with rougue-like and rougue.
+Chương 3: Phân tích game: Hệ thống phân loại game.
+	- Triple-A & Indie.
+	- Nền tảng phát hành.
+	- Các thể loại game.
+
+Chương 4: Phân tích game: Các mô hình phân tích.
+	- MDA framework.
+	- The Game, the Player, the World: Looking for a Heart of Gameness.
+	- Computer Game Criticism.
+
+Chương 5: Unity
+	- ?.
+
+Chương 5: Deadcell: Tổng quan sự hình thành.
+	- Lịch sử hình thành và phát triển.
+	- Các giải thưởng danh giá.
+
+Chương 6: Deadcell: Game Design Document.
+	- Giới thiệu tóm tắt.
+	- Hình ảnh.
+	- Các hệ thống trong trò chơi.
+	- Cách chơi.
+	- Luật chơi.
+	- Các yếu tố hấp dẫn.
+
 
 
 	
