@@ -30,10 +30,15 @@ Chương 1: Khi trò chơi không còn là công cụ để giải trí.
 		- Production.
 		- Post-Production fix & polish.
 
-Chương 3: Phân tích game: Hệ thống phân loại game.
+Chương 2: Phân tích game: Hệ thống phân loại game.
 	- Triple-A & Indie.
 	- Nền tảng phát hành.
 	- Các thể loại game.
+#REf:
+https://www.gameopedia.com/video-game-genres/
+https://www.hp.com/us-en/shop/tech-takes/video-game-genres
+https://en.wikipedia.org/wiki/Action_game
+https://en.wikipedia.org/wiki/Adventure_game
 
 Chương 4: Phân tích game: Các mô hình phân tích.
 	- MDA framework.
