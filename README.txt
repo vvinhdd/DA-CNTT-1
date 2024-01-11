@@ -40,19 +40,16 @@ https://www.hp.com/us-en/shop/tech-takes/video-game-genres
 https://en.wikipedia.org/wiki/Action_game
 https://en.wikipedia.org/wiki/Adventure_game
 
-Chương 4: Phân tích game: Các mô hình phân tích.
+Chương 3: Phân tích game: Các mô hình phân tích.
 	- MDA framework.
 	- The Game, the Player, the World: Looking for a Heart of Gameness.
 	- Computer Game Criticism.
 
-Chương 5: Unity
-	- ?.
-
-Chương 5: Deadcell: Tổng quan sự hình thành.
+Chương 4: Deadcell: Tổng quan sự hình thành.
 	- Lịch sử hình thành và phát triển.
 	- Các giải thưởng danh giá.
 
-Chương 6: Deadcell: Game Design Document.
+Chương 5: Deadcell: Game Design Document.
 	- Giới thiệu tóm tắt.
 	- Hình ảnh.
 	- Các hệ thống trong trò chơi.
@@ -60,7 +57,11 @@ Chương 6: Deadcell: Game Design Document.
 	- Luật chơi.
 	- Các yếu tố hấp dẫn.
 
+Chương 6: Unity
+	- <draf>
 
+Chương 7: Spine
+	- <draf>
 
 	
 
