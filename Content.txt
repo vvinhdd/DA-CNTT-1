@@ -1,0 +1,30 @@
+A-Giới thiệu:
+	Công ty GGO
+	Project-D
+B-Cơ sở lý thuyết:
+	Chương 1: Khi trò chơi không chỉ là công cụ để giải trí
+		1.1 Trò chơi điện tử là gì
+		1.2 Quy trình phát triển cho một trò chơi điện tử
+			1.2.1 Pre-production
+			1.2.2 Production
+			1.2.3 Post-Production fix & polish
+	Chương 2: Một hệ thống phân loại tro chơi điện tử
+		2.1 Triple-A & Indie
+		2.2 Nền tảng phát hành
+		2.3 Các thể loại game
+		2.4 Những sự phát triển không thể dự đoán trước
+	Chương 3: Phân tích game: Các mô hình phân tích
+		3.1 MDA framework
+		3.2 The Game, the Player, the World: Looking for a Heart of Gameness
+		3.3 Computer Game Criticism <KTDN>
+C-Pre-Production
+	Chương 4: Deadcell: tổng quan sự hình thành
+	Chương 5: Deadcell: Game Design Document
+	Chương 6: Unity & Spine
+D-Production 
+	Chương 7: Map random generation.<KTDN>
+	Chương 8: Generation item with Factory Design Pattern.<KTDN>
+E-Kết luận
+
+Tài liệu tham khảo
+Phụ lục
